@@ -1,23 +1,21 @@
-Id   | Name | Company                     | Phone        | Email                        | When contacted | When to follow up | Notes
-:--- | :--- | :---                        | :---         | :---                         | :---           | :---              | :---
-1    |      | Latrice                     |              | contact form                 | 3/23/2024      | 3/27/2024         |
-2    |      | Lucky Duck                  |              |                              |                |                   |
-3    |      | Showcase Comics             |              |                              |                |                   |
-4    |      | Illadelph Smoke Shop        |              |                              |                |                   |
-5    |      | Tennis Junction             |              |                              |                |                   |
-6    |      | Skirt                       |              |                              |                |                   |
-7    |      | Boujee Boutique             |              |                              |                |                   |
-8    |      | Redecor Consignment         |              |                              |                |                   |
-9    |      | Via Bellissima              |              |                              |                |                   |
-10   |      | Bra Spectrum                |              |                              |                |                   |
-11   |      | Pasha Boutique              |              |                              |                |                   |
-12   |      | Kindred Collective          |              |                              |                |                   |
-13   |      | Bryn Mawr Running Company   |              |                              |                |                   |
-14   |      | Arrowroot Farmacy           |              |                              |                |                   |
-15   |      | Grove 121 women clothing    |              |                              |                |                   |
-16   |      | Something Different by Eric |              |                              |                |                   |
-17   |      | Pen & Paper                 |              |                              |                |                   |
-18   |      | Morgan Hill Home            |              |                              |                |                   |
-19   |      | Bryn Mawr Oriental Rugs     |              |                              |                |                   |
-20   |      | M&M TwoWheelers             |              |                              |                |                   |
-21   | Greg | The Camera Shop             | 610-527-0300 | greg@thecamerashoponline.com |                |                   |
+Ran  | Name               | Company                     | Phone         | Email                        | When contacted | When to follow up | Notes
+:--- | :---               | :---                        | :---          | :---                         | :---           | :---              | :---
+1    |                    | Lucky Duck                  | 610-525-5825  |                              |                |                   |
+2    |                    | Via Bellissima              | 610-581-7414  |                              |                |                   |
+3    |                    | Bra Spectrum                | 610-228-4636  |                              |                |                   |
+4    |                    | Pasha Boutique              | 610-525-2777  |                              |                |                   |
+5    |                    | Kindred Collective          | 484-222-6483  |                              |                |                   |
+6    |                    | Arrowroot Farmacy           | 610-527-3393  |                              |                |                   |
+7    |                    | Pen & Paper                 | 610-525-6870  |                              |                |                   |
+8    |                    | Bryn Mawr Oriental Rugs     | 610-525-8700  |                              |                |                   |
+9    | Greg               | The Camera Shop             | 610-527-0300  | greg@thecamerashoponline.com |                |                   |
+10   |                    | Latrice                     | 610-525-1109  | contact form                 | 3/23/2024      | 3/27/2024         |
+11   |                    | Showcase Comics             | 610-527-6236  |                              |                |                   |
+12   |                    | Tennis Junction             | 610-525-2504  |                              |                |                   |
+13   |                    | Skirt                       | 610-520-0222  |                              |                |                   |
+14   |                    | Boujee Boutique             | 484-222-6113  |                              |                |                   |
+15   |                    | Redecor Consignment         | 610-519-9500  |                              |                |                   |
+16   |                    | Bryn Mawr Running Company   | 610-527-5510  |                              |                |                   |
+17   |                    | Grove 121 women clothing    | 484-380-2540  |                              |                |                   |
+18   | Bernadette Wheeler | Something Different by Eric | R484-612-5357 |                              |                |                   |
+19   |                    | M&M TwoWheelers             | 610-525-2220  |                              |                |                   |
