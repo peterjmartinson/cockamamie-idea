@@ -1,7 +1,7 @@
 Ran  | Name               | Company                     | Phone         | Email                        | When contacted | When to follow up | Notes
 :--- | :---               | :---                        | :---          | :---                         | :---           | :---              | :---
 1    |                    | Lucky Duck                  | 610-525-5825  |                              |                |                   |
-2    |                    | Via Bellissima              | 610-581-7414  |                              |                |                   |
+2    |                    | Via Bellissima              | 610-581-7414  | viabellissima@gmail.com      |                |                   |
 3    |                    | Bra Spectrum                | 610-228-4636  |                              |                |                   |
 4    |                    | Pasha Boutique              | 610-525-2777  |                              |                |                   |
 5    |                    | Kindred Collective          | 484-222-6483  |                              |                |                   |
