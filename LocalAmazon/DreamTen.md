@@ -1,11 +1,11 @@
 Ran  | Name               | Company                     | Phone         | Email                        | When contacted | When to follow up | Notes
 :--- | :---               | :---                        | :---          | :---                         | :---           | :---              | :---
 1    |                    | Lucky Duck                  | 610-525-5825  |                              |                |                   |
-2    |                    | Via Bellissima              | 610-581-7414  | viabellissima@gmail.com      |                |                   |
+2    | Susan              | Via Bellissima              | 610-581-7414  | viabellissima@gmail.com      |  03/25/2024    |                   | She responded and said, come visit!
 3    |                    | Bra Spectrum                | 610-228-4636  |                              |                |                   |
 4    |                    | Pasha Boutique              | 610-525-2777  |                              |                |                   |
-5    |                    | Kindred Collective          | 484-222-6483  |                              |                |                   |
-6    |                    | Arrowroot Farmacy           | 610-527-3393  |                              |                |                   |
+5    | Jordan Pincus      | Kindred Collective          | 484-222-6483  |                              |  03/26/2024    |                   |
+6    | Debbi              | Arrowroot Farmacy           | 610-527-3393  | debbi@arrowroot.com          |   03/26/2024   |                   |
 7    |                    | Pen & Paper                 | 610-525-6870  |                              |                |                   |
 8    |                    | Bryn Mawr Oriental Rugs     | 610-525-8700  |                              |                |                   |
 9    | Greg               | The Camera Shop             | 610-527-0300  | greg@thecamerashoponline.com |                |                   |
